@@ -8,9 +8,9 @@
             <title>1.0.0</title>
             <pubDate>Tue, 12 Sep 2023 11:28:17 +0800</pubDate>
             <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.fonedog.com/update/fonedog-app-uninstaller/App%20Uninstaller.dmg" length="12768640" type="application/octet-stream" sparkle:edSignature="Tj7ZkdLVNV0thIoZwyUnAsKIe8LZbrW2si9Ft8qh3fHxXoxCh0qATIV5bxElP6tSIFMEyYCONWeU4q/+Ct2cBw=="/>
+            <enclosure url="https://github.com/meZS/Update/blob/main/App%20Uninstaller.dmg" length="12768640" type="application/octet-stream" sparkle:edSignature="Tj7ZkdLVNV0thIoZwyUnAsKIe8LZbrW2si9Ft8qh3fHxXoxCh0qATIV5bxElP6tSIFMEyYCONWeU4q/+Ct2cBw=="/>
         </item>
     </channel>
 </rss>
